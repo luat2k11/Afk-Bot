@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "botgiusever",
+    "password": "false",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "bathangkhochoimine.aternos.me",
+    "port": 51653,
+    "version": "1.21"
   },
 
   "position": {
@@ -48,10 +48,7 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "hi ",
       ]
     },
 
